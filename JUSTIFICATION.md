@@ -215,8 +215,8 @@ What I did myself:
 - I ran the whole notebook in Google Colab on a T4 GPU. Every number in this document and in `REPORT.md` is one
   my run printed.
 - I chose to narrow the band from (40, 50) to (40, 45) after seeing the 27.3 % workload.
-- I opened the cited provisions on adilet.zan.kz and the OECD and UNESCO texts and checked each citation
-  against the primary text. I opened Law No. 94-V (Art. 19-1) and Law No. 230-VIII (Arts. 6, 8, 15, 17) on adilet.zan.kz and confirmed the article numbers.
+- I opened Law No. 94-V (Art. 19-1) and Law No. 230-VIII (Arts. 6, 8, 15, 17) on adilet.zan.kz
+  and confirmed the article numbers.
 
 The AI tool's statements about the law are not my citations; the citations above are to the instruments
 themselves.
